@@ -11,17 +11,27 @@ body {
     border-top-color: black;
     border-bottom-width: 5px;
 
+    height: 600px;
+
 }
 p::first-letter {
     font-size: 26px;
     color:blue
   }
 
-.text {
+/* .text {
     border: 1px solid red;
     max-width: 700px;
     min-width: 300px;
     width: 100%;
     min-height: 350px;
-}
+    height: 100$;
+    
+} */
 
+.text {
+    padding: 50px;
+    margin-top: 50px;
+    padding-left: 10px;
+
+}
