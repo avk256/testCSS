@@ -29,9 +29,13 @@ p::first-letter {
     
 } */
 
-.text {
+.paragraph1 {
     padding: 50px;
     margin-top: 50px;
     padding-left: 10px;
 
+}
+
+.paragraph2 {
+    outline: 2px solid black;
 }
