@@ -5,9 +5,16 @@ body {
     background-color: rgb(252, 238, 238);
     line-height: 30px;
 
+    margin: 0px;
+
+    border: 2px solid blue;
+    border-top-color: black;
+    border-bottom-width: 5px;
+
 }
 p::first-letter {
     font-size: 26px;
     color:blue
   }
+
 
