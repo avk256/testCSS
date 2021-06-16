@@ -1,0 +1,9 @@
+body {
+    font-size: 20px;
+    color: red;
+
+}
+body::first-letter {
+    font-size: 26px;
+    color:blue
+  }
