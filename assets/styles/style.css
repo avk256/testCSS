@@ -1,9 +1,13 @@
 body {
     font-size: 20px;
-    color: red;
+    font-weight: bold;
+    color: rgb(196, 68, 68);
+    background-color: rgb(252, 238, 238);
+    line-height: 30px;
 
 }
-body::first-letter {
+p::first-letter {
     font-size: 26px;
     color:blue
   }
+
