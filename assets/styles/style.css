@@ -17,4 +17,11 @@ p::first-letter {
     color:blue
   }
 
+.text {
+    border: 1px solid red;
+    max-width: 700px;
+    min-width: 300px;
+    width: 100%;
+    min-height: 350px;
+}
 
